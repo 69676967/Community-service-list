@@ -32,3 +32,8 @@
 ## Only XMPP
 * [trashserver.net](https://trashserver.net)
 
+---
+
+## Frontend (Web only)
+* [YouTube](https://docs.invidious.io/instances/)
+
