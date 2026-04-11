@@ -1,2 +1,27 @@
-# Community-service-list
-This repo contain the list of websites that provide services on internet by individual or organization 
+## Meta Services
+* [private.coffee](https://private.coffee)
+* [catgirl.cloud](https://catgirl.cloud)
+* [disroot.org](https://disroot.org)
+* [tchncs.de](https://tchncs.de)
+* [riseup.net](https://riseup.net)
+* [nixnet.services](https://nixnet.services)
+* [07f.de](https://07f.de)
+* [4d2.org](https://4d2.org)
+* [digitalprivacy.diy](https://digitalprivacy.diy)
+* [pub.solar](https://pub.solar)
+* [envs.net](https://envs.net)
+* [bladerunn.in](https://bladerunn.in)
+* [unredacted.org](https://unredacted.org)
+* [anarchists.space](https://anarchists.space)
+
+---
+
+## Only Matrix
+* [nope.chat](https://nope.chat)
+* [converser.eu](https://converser.eu)
+
+---
+
+## Only XMPP
+* [trashserver.net](https://trashserver.net)
+
