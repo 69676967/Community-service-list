@@ -40,6 +40,7 @@ Search "Nostr , Activepub etc client list" , you can use Fdroid or Zapstore to g
 If clients can't be found for centralized platforms like Reddit , you can use firefox + ublock
 
 * https://docs.invidious.io/instances - YouTube
+* https://lucida.to - Music download 
 * https://searx.space - Search engine
 
 ---
@@ -48,9 +49,22 @@ If clients can't be found for centralized platforms like Reddit , you can use fi
 * https://deadshot.io
 * https://lichess.org - Chess
 * https://www.crazygames.com/game/forward-assault - Csgo
+
 ---
 
 ## Atprotocl and Activepub 
 Atprotocl is shit just use default bluesky instance
 Activepub is too fedrated but you can start exploring from here
 * https://anarchist.nexus - Piefed
+
+---
+
+## Naughty stuff
+Use firefox + ublock while accessing these sites
+* https://www.reddit.com/r/Piracy/wiki/megathread
+* https://mediasavvy.pages.dev
+* https://fmhy.net
+
+---
+
+Contact - 
