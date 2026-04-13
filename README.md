@@ -1,10 +1,3 @@
-## Rules to contribute 
-1. Their has to be a website and not a server like you can put a website if they are only running a nostr server but you can't put the server directly 
-
-2. Follow the layout and if you want to add more catagory create a pr
-
----
-
 ## Meta Services
 * https://private.coffee
 * https://catgirl.cloud
