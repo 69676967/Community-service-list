@@ -67,5 +67,12 @@ Use firefox + ublock while accessing these sites
 
 ---
 
+## No account , offline apps
+* Briar
+* Simplex 
+* Bitchat 
+
+---
+
 Contact - @omnimanballs69:matrix.org
 Pls create a pr to contribute 😃
