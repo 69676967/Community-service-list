@@ -31,7 +31,7 @@
 
 ## Only XMPP
 * [Server list](https://jabberworld.info/servers/)
-* https://list.jabber.at/
+* list.jabber.at/
 ---
 
 ## Frontend (Web only)
