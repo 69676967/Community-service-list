@@ -39,6 +39,7 @@
 Search "Nostr , Activepub etc client list" for frontend , you can use Fdroid or Zapstore to get the web app or apk
 
 * https://docs.invidious.io/instances - YouTube
+* https://searx.space - Search engine
 
 ---
 
