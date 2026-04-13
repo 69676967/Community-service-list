@@ -24,14 +24,14 @@
 ---
 
 ## Only Matrix
-* [nope.chat](https://nope.chat)
-* [converser.eu](https://converser.eu)
+* [Server list](https://servers.joinmatrix.org/)
+* [Room list](https://matrixrooms.info/)
 
 ---
 
 ## Only XMPP
-* [trashserver.net](https://trashserver.net)
-
+* [Server list](https://jabberworld.info/servers/)
+* https://list.jabber.at/
 ---
 
 ## Frontend (Web only)
