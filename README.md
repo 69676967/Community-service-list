@@ -43,6 +43,12 @@ Search "Nostr , Activepub etc client list" for frontend , you can use Fdroid or 
 
 ---
 
+## Games (Web only)
+* https://deadshot.io
+* https://lichess.org - Chess
+* https://www.crazygames.com/game/forward-assault - Csgo
+---
+
 ## Atprotocl and Activepub 
 Atprotocl is shit just use default bluesky instance
 Activepub is too fedrated but you can start exploring from here
