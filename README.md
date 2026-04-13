@@ -32,6 +32,14 @@
 ## Only XMPP
 * https://jabberworld.info/servers
 * https://list.jabber.at
+* https://providers.xmpp.net
+
+---
+
+## Only Nostr
+* https://nostr.co.uk/relays
+* https://nostr.watch
+
 ---
 
 ## Frontend (Web only)
