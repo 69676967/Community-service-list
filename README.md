@@ -1,18 +1,18 @@
-# Meta Services
-* https://private.coffee
-* https://catgirl.cloud
-* https://disroot.org
-* https://tchncs.de
-* https://riseup.net
-* https://nixnet.services
-* https://07f.de
-* https://4d2.org
-* https://digitalprivacy.diy
-* https://pub.solar
-* https://envs.net
-* https://bladerunn.in
-* https://unredacted.org
-* https://anarchists.space
+* Meta Services
+  * https://private.coffee
+  * https://catgirl.cloud
+  * https://disroot.org
+  * https://tchncs.de
+  * https://riseup.net
+  * https://nixnet.services
+  * https://07f.de
+  * https://4d2.org
+  * https://digitalprivacy.diy
+  * https://pub.solar
+  * https://envs.net
+  * https://bladerunn.in
+  * https://unredacted.org
+  * https://anarchists.space
 
 ---
 ### Try
