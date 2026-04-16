@@ -35,6 +35,7 @@ Activepub is too fedrated but you can start exploring from here .
 ## Sail the sea stuff 😈😈
 * https://www.reddit.com/r/Piracy/wiki/megathread
 * https://mediasavvy.pages.dev
+* https://champagne.pages.dev
 * https://fmhy.net
 > Use firefox + ublock while accessing these sites .
 
