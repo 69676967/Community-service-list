@@ -14,24 +14,21 @@
   * https://unredacted.org
   * https://anarchists.space
 
----
-### Try
-* Only Matrix
-  * https://servers.joinmatrix.org
-  * https://matrixrooms.info
-
----
-
-## Only XMPP
-* https://jabberworld.info/servers
-* https://list.jabber.at
-* https://providers.xmpp.net
-
----
-
-## Only Nostr
-* https://nostr.co.uk/relays
-* https://nostr.watch
+* Other then Meta Services
+  * Matrix
+    * https://servers.joinmatrix.org
+    * https://matrixrooms.info
+  * XMPP
+    * https://jabberworld.info/servers
+    * https://list.jabber.at
+    * https://providers.xmpp.net
+  * Nostr
+    * https://nostr.co.uk/relays
+    * https://nostr.watch
+  * Atprotocl and Activepub 
+Atprotocl is shit just use default bluesky instance
+  Activepub is too fedrated but you can start exploring from here
+    * https://anarchist.nexus - Piefed
 
 ---
 
@@ -45,17 +42,14 @@ If clients can't be found for centralized platforms like Reddit , you can use fi
 
 ---
 
-## Games (Web only)
-* https://deadshot.io
-* https://lichess.org - Chess
-* https://www.crazygames.com/game/forward-assault - Csgo
+* Games (Web only)
+  * https://deadshot.io
+  * https://lichess.org - Chess
+  * https://www.crazygames.com/game/forward-assault - Csgo
 
 ---
 
-## Atprotocl and Activepub 
-Atprotocl is shit just use default bluesky instance
-Activepub is too fedrated but you can start exploring from here
-* https://anarchist.nexus - Piefed
+
 
 ---
 
