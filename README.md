@@ -34,7 +34,9 @@
 ---
 
 * Naughty stuff
-Use firefox + ublock while accessing these sites
+
+
+  Use firefox + ublock while accessing these sites
   * https://www.reddit.com/r/Piracy/wiki/megathread
   * https://mediasavvy.pages.dev
   * https://fmhy.net
