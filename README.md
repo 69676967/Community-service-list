@@ -27,6 +27,7 @@
     * https://nostr.watch
   * Atprotocl and Activepub
 
+
   Atprotocl is shit just use default bluesky instance
   Activepub is too fedrated but you can start exploring from here
     * https://anarchist.nexus - Piefed
@@ -36,21 +37,20 @@
 * Naughty stuff
 
 
-  Use firefox + ublock while accessing these sites
+Use firefox + ublock while accessing these sites
   * https://www.reddit.com/r/Piracy/wiki/megathread
   * https://mediasavvy.pages.dev
   * https://fmhy.net
 
+* Clients (Web only)
 
-## Clients (Web only)
+
 Search "Nostr , Activepub etc client list" , you can use Fdroid or Zapstore to get the web app or apk
-If clients can't be found for centralized platforms like Reddit , you can use firefox + ublock
-
-* https://docs.invidious.io/instances - YouTube
-* https://lucida.to - Music download 
-* https://searx.space - Search engine
-
----
+  If clients can't be found for centralized platforms like Reddit , you can use firefox + ublock
+  Many clients like this are also available in the links of Meta Services
+  * https://docs.invidious.io/instances - YouTube
+  * https://lucida.to - Music download 
+  * https://searx.space - Search engine
 
 * Games (Web only)
   * https://deadshot.io
@@ -59,19 +59,13 @@ If clients can't be found for centralized platforms like Reddit , you can use fi
 
 ---
 
-
-
----
-
-
----
-
-## No account , offline apps
-* Briar
-* Simplex 
-* Bitchat 
+* No account , offline apps (Android and Web only)
+  * Briar
+  * Simplex 
+  * Bitchat 
 
 ---
 
-Contact - @omnimanballs69:matrix.org  
+## Contact
+* @omnimanballs69:matrix.org  
 Pls create a pr to contribute 😃
