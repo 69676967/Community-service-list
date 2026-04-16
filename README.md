@@ -62,4 +62,5 @@ Many clients like this are also available in the links of Meta Services .
 
 ## Contact
 * @omnimanballs69:matrix.org  
+* omniman@movim.eu - xmpp
 > Pls create a pr to contribute 😃
