@@ -15,9 +15,9 @@
   * https://anarchists.space
 
 * Other then Meta Services
-  * Matrix
-    * https://servers.joinmatrix.org
-    * https://matrixrooms.info
+  - Matrix
+    - https://servers.joinmatrix.org
+    - https://matrixrooms.info
   * XMPP
     * https://jabberworld.info/servers
     * https://list.jabber.at
