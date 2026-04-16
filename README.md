@@ -15,10 +15,10 @@
 * https://anarchists.space
 
 ---
-
-## Only Matrix
-* https://servers.joinmatrix.org
-* https://matrixrooms.info
+### Try
+* Only Matrix
+  * https://servers.joinmatrix.org
+  * https://matrixrooms.info
 
 ---
 
