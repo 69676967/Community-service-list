@@ -74,5 +74,5 @@ Use firefox + ublock while accessing these sites
 
 ---
 
-Contact - @omnimanballs69:matrix.org
+Contact - @omnimanballs69:matrix.org  
 Pls create a pr to contribute 😃
