@@ -1,34 +1,32 @@
 ## Meta Services
-* https://private.coffee**
+* https://private.coffee
 * https://catgirl.cloud
-  * https://disroot.org
-  * https://tchncs.de
-  * https://riseup.net
-  * https://nixnet.services
-  * https://07f.de
-  * https://4d2.org
-  * https://digitalprivacy.diy
-  * https://pub.solar
-  * https://envs.net
-  * https://bladerunn.in
-  * https://unredacted.org
-  * https://anarchists.space
+* https://disroot.org
+* https://tchncs.de
+* https://riseup.net
+* https://nixnet.services
+* https://07f.de
+* https://4d2.org
+* https://digitalprivacy.diy
+* https://pub.solar
+* https://envs.net
+* https://bladerunn.in
+* https://unredacted.org
+* https://anarchists.space
 
-* Other then Meta Services
-  - Matrix
-    - https://servers.joinmatrix.org
-    - https://matrixrooms.info
-  * XMPP
-    * https://jabberworld.info/servers
-    * https://list.jabber.at
-    * https://providers.xmpp.net
-  * Nostr
-    * https://nostr.co.uk/relays
-    * https://nostr.watch
-  * Atprotocl and Activepub
-
-
-  Atprotocl is shit just use default bluesky instance
+## Protocols
+* Matrix
+  * https://servers.joinmatrix.org
+  * https://matrixrooms.info
+* XMPP
+  * https://jabberworld.info/servers
+  * https://list.jabber.ar  
+  * https://providers.xmpp.net
+* Nostr
+  * https://nostr.co.uk/relays
+  * https://nostr.watch
+* Atprotocl and Activepub
+Atprotocl is shit just use default bluesky instance
   Activepub is too fedrated but you can start exploring from here
     * https://anarchist.nexus - Piefed
 
