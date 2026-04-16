@@ -27,34 +27,29 @@
   * https://nostr.watch
 * Atprotocl and Activepub
   * https://anarchist.nexus - Piefed
->> Atprotocl is shit just use default bluesky instance
+> Atprotocl is shit just use default bluesky instance
 Activepub is too fedrated but you can start exploring from here
-  
 
 ---
 
-* Naughty stuff
+## Sail the sea stuff
+* https://www.reddit.com/r/Piracy/wiki/megathread
+* https://mediasavvy.pages.dev
+* https://fmhy.net
+> Use firefox + ublock while accessing these sites
 
+## Clients (Web only)
+* https://docs.invidious.io/instances - YouTube
+* https://lucida.to - Music download 
+* https://searx.space - Search engine
+> Search "Nostr , Activepub etc client list" , you can use Fdroid or Zapstore to get the web app or apk
+If clients can't be found for centralized platforms like Reddit , you can use firefox + ublock
+Many clients like this are also available in the links of Meta Services
 
-Use firefox + ublock while accessing these sites
-    * https://www.reddit.com/r/Piracy/wiki/megathread
-    * https://mediasavvy.pages.dev
-    * https://fmhy.net
-
-* Clients (Web only)
-
-
-Search "Nostr , Activepub etc client list" , you can use Fdroid or Zapstore to get the web app or apk
-  If clients can't be found for centralized platforms like Reddit , you can use firefox + ublock
-  Many clients like this are also available in the links of Meta Services
-  * https://docs.invidious.io/instances - YouTube
-  * https://lucida.to - Music download 
-  * https://searx.space - Search engine
-
-* Games (Web only)
-  * https://deadshot.io
-  * https://lichess.org - Chess
-  * https://www.crazygames.com/game/forward-assault - Csgo
+## Games (Web only)
+* https://deadshot.io
+* https://lichess.org - Chess
+* https://www.crazygames.com/game/forward-assault - Csgo
 
 ---
 
