@@ -27,7 +27,7 @@
     * https://nostr.watch
   * Atprotocl and Activepub
 
-Atprotocl is shit just use default bluesky instance
+  Atprotocl is shit just use default bluesky instance
   Activepub is too fedrated but you can start exploring from here
     * https://anarchist.nexus - Piefed
 
