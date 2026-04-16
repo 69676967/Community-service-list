@@ -1,7 +1,6 @@
-# Meta Services
-## Bb
-  ** https://private.coffee**
-  * https://catgirl.cloud
+## Meta Services
+* https://private.coffee**
+* https://catgirl.cloud
   * https://disroot.org
   * https://tchncs.de
   * https://riseup.net
