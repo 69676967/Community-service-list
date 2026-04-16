@@ -33,6 +33,15 @@
 
 ---
 
+* Naughty stuff
+
+
+Use firefox + ublock while accessing these sites
+  * https://www.reddit.com/r/Piracy/wiki/megathread
+  * https://mediasavvy.pages.dev
+  * https://fmhy.net
+
+
 ## Clients (Web only)
 Search "Nostr , Activepub etc client list" , you can use Fdroid or Zapstore to get the web app or apk
 If clients can't be found for centralized platforms like Reddit , you can use firefox + ublock
@@ -54,11 +63,6 @@ If clients can't be found for centralized platforms like Reddit , you can use fi
 
 ---
 
-## Naughty stuff
-Use firefox + ublock while accessing these sites
-* https://www.reddit.com/r/Piracy/wiki/megathread
-* https://mediasavvy.pages.dev
-* https://fmhy.net
 
 ---
 
