@@ -1,5 +1,5 @@
 * Meta Services
-  * https://private.coffee
+  ** https://private.coffee**
   * https://catgirl.cloud
   * https://disroot.org
   * https://tchncs.de
