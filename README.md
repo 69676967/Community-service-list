@@ -58,6 +58,8 @@ Many clients like this are also available in the links of Meta Services .
 * Briar
 * Simplex 
 * Bitchat 
+* https://0data.app/
+> Use chromium browser for web apps
 
 ---
 
