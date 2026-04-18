@@ -67,5 +67,4 @@ Many clients like this are also available in the links of Meta Services .
 * @omnimanballs69:matrix.org  
 * omniman@movim.eu - xmpp
 * nprofile1qqs99tmrk0dkjrfva0evxctgpfjtl6j768p2vejulyrlnp5n6y0dsuqzqqpsgqqqqqqqfh48qm - nostr 
-> Share your zaps with me
-> Pls create a pr to contribute 😃
+> Share your zaps with me 😁
