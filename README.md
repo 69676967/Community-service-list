@@ -14,7 +14,6 @@
 * [Unredacted](https://unredacted.org)
 * [Anarchists Space](https://anarchists.space)
 
-
 ## Protocols
 * Matrix
   * https://servers.joinmatrix.org
@@ -30,12 +29,11 @@
   * https://anarchist.nexus - Piefed
 > Atprotocl is shit just use default bluesky instance .
 Activepub is too fedrated but you can start exploring from here .
+* Web
+  * [Search search](https://searx.space)
 
-## Clients (Android and Web)
-* Centralized Clients
-  * https://docs.invidious.io/instances - YouTube
-  * https://lucida.to - Music download 
-* https://searx.space - Search engine
+
+  
 > Search "Nostr , Activepub etc client list" , you can use Fdroid or Zapstore to get the web app or apk .
 If clients can't be found for centralized platforms like Reddit , you can use firefox + ublock .
 Many clients like this are also available in the links of Meta Services .
@@ -43,16 +41,20 @@ Many clients like this are also available in the links of Meta Services .
 ---
 
 ## Sail the sea stuff 😈😈
-* [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)
-* [MediaSavvy](https://mediasavvy.pages.dev)
-* [Champagne](https://champagne.pages.dev)
-* [FMHY](https://fmhy.net)
+* Books
+  * [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)
+  * [MediaSavvy](https://mediasavvy.pages.dev)
+  * [Champagne](https://champagne.pages.dev)
+  * [FMHY](https://fmhy.net)
+* Clients (Web only)
+  * [YouTube](https://docs.invidious.io/instances)
+  * [Music](https://lucida.to)
 > Use firefox + ublock while accessing these sites .
 
 ## Games (Web only)
 * [Deadshot.io](https://deadshot.io)
 * [Lichess](https://lichess.org)
-* [Forward Assault](https://www.crazygames.com/game/forward-assault)
+* [Forward Assault](https://www.crazygames.com/game/forward-assault) - Csgo
 
 ## No account , offline apps (Android and Web)
 * Briar
