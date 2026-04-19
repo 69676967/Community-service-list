@@ -30,7 +30,7 @@
 > Atprotocl is shit just use default bluesky instance .
 Activepub is too fedrated but you can start exploring from here .
 * Web
-  * [Search search](https://searx.space)
+  * [Searx search](https://searx.space)
 
 
   
