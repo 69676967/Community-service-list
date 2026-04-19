@@ -43,22 +43,22 @@ Many clients like this are also available in the links of Meta Services .
 ---
 
 ## Sail the sea stuff 😈😈
-* https://www.reddit.com/r/Piracy/wiki/megathread
-* https://mediasavvy.pages.dev
-* https://champagne.pages.dev
-* https://fmhy.net
+* [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)
+* [MediaSavvy](https://mediasavvy.pages.dev)
+* [Champagne](https://champagne.pages.dev)
+* [FMHY](https://fmhy.net)
 > Use firefox + ublock while accessing these sites .
 
 ## Games (Web only)
-* https://deadshot.io
-* https://lichess.org - Chess
-* https://www.crazygames.com/game/forward-assault - Csgo
+* [Deadshot.io](https://deadshot.io)
+* [Lichess](https://lichess.org)
+* [Forward Assault](https://www.crazygames.com/game/forward-assault)
 
 ## No account , offline apps (Android and Web)
 * Briar
 * Simplex 
 * Bitchat 
-* https://0data.app
+* [0data](https://0data.app)
 > Use chromium browser for web apps
 
 ---
