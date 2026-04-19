@@ -35,8 +35,6 @@ Activepub is too fedrated but you can start exploring from here .
 
   
 > Search "Nostr , Activepub etc client list" , you can use Fdroid or Zapstore to get the web app or apk .
-If clients can't be found for centralized platforms like Reddit , you can use firefox + ublock .
-Many clients like this are also available in the links of Meta Services .
 
 ---
 
@@ -49,7 +47,8 @@ Many clients like this are also available in the links of Meta Services .
 * Clients (Web only)
   * [YouTube](https://docs.invidious.io/instances)
   * [Music](https://lucida.to)
-> Use firefox + ublock while accessing these sites .
+> Use firefox + ublock while accessing these sites . If clients can't be found for centralized platforms like Reddit , you can use firefox + ublock .
+Many clients like this are also available in the links of META SEEVICES .
 
 ## Games (Web only)
 * [Deadshot.io](https://deadshot.io)
