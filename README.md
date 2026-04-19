@@ -1,18 +1,19 @@
 ## Meta Services
-* https://private.coffee
-* https://catgirl.cloud
-* https://disroot.org
-* https://tchncs.de
-* https://riseup.net
-* https://nixnet.services
-* https://07f.de
-* https://4d2.org
-* https://digitalprivacy.diy
-* https://pub.solar
-* https://envs.net
-* https://bladerunn.in
-* https://unredacted.org
-* https://anarchists.space
+* [Private Coffee](https://private.coffee)
+* [Catgirl Cloud](https://catgirl.cloud)
+* [Disroot](https://disroot.org)
+* [tchncs](https://tchncs.de)
+* [Riseup](https://riseup.net)
+* [Nixnet](https://nixnet.services)
+* [07f.de](https://07f.de)
+* [4d2](https://4d2.org)
+* [Digital Privacy DIY](https://digitalprivacy.diy)
+* [Pub Solar](https://pub.solar)
+* [Envs.net](https://envs.net)
+* [Bladerunn.in](https://bladerunn.in)
+* [Unredacted](https://unredacted.org)
+* [Anarchists Space](https://anarchists.space)
+
 
 ## Protocols
 * Matrix
