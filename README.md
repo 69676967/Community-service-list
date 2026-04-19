@@ -31,8 +31,9 @@
 Activepub is too fedrated but you can start exploring from here .
 
 ## Clients (Android and Web)
-* https://docs.invidious.io/instances - YouTube
-* https://lucida.to - Music download 
+* Centralized Clients
+  * https://docs.invidious.io/instances - YouTube
+  * https://lucida.to - Music download 
 * https://searx.space - Search engine
 > Search "Nostr , Activepub etc client list" , you can use Fdroid or Zapstore to get the web app or apk .
 If clients can't be found for centralized platforms like Reddit , you can use firefox + ublock .
@@ -51,8 +52,6 @@ Many clients like this are also available in the links of Meta Services .
 * https://deadshot.io
 * https://lichess.org - Chess
 * https://www.crazygames.com/game/forward-assault - Csgo
-
----
 
 ## No account , offline apps (Android and Web)
 * Briar
